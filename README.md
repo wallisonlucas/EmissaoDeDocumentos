@@ -1,4 +1,4 @@
-## Factory Method - Emissão de Documentos
+## Factory Method em um cenário real - Emissão de Documentos
 ATIVIDADE PRÁTICA (IMPRESSA)
 
 Projeto em Java desenvolvido para aplicar o padrão de projeto **Factory Method**.  
