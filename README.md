@@ -50,4 +50,4 @@ A `Main` trabalha apenas com `FabricaDocumento` e `Documento`, sem nenhum `new P
 
 ## 👨‍💻 Autor
 
-Desenvolvido como atividade prática da disciplina de **Padrões de Projeto** — ADS · IFPB.
+Desenvolvido como atividade prática da disciplina de **Padrões de Projeto**.
